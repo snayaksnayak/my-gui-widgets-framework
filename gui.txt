@@ -1,0 +1,22 @@
+a3.py: good, button bar horizontal, panel addition vertical;
+a4.py: new font, default chars in button = 7;
+a5.py: if you give num chars, button class can calculate
+       and give you how much width height it needs;
+       ribbon num chars = 7, num elems = 3;
+       ribbon can be horizontal and vertical;
+       panel can be filled horizontally and vertically;
+a6.py: multitext started working
+a7.py: event routing
+a8.py: cursor drawing complete with mouse
+a9.py: printing newline character
+a10.py: key codes with shift key
+a11.py: some corrections
+a12.py: cursor movement and insert, delete, backspace supported
+a13.py: minor corrections
+a14.py: update_on_ins working
+a15.py: update_on_del working
+a16.py: update_on_bksp working fine
+a17.py: some important notes
+a18.py: changed available_* to content_*
+a19.py: buttons in ribbon are scrollable
+a20.py: key press and hold support

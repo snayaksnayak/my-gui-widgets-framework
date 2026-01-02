@@ -1,10 +1,10 @@
 # my-gui-widgets-framework
 
-My gui widgets framework
+My GUI Widgets Framework
 
-using **python** and **pygame**
+using **Python** and **PyGame**,
 
 and a complete **Editor**
 
-using this gui-framework
+using this framework.
 
